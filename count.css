@@ -1,0 +1,49 @@
+body{
+    background: rgb(240, 182, 202);
+    text-transform: capitalize;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    background: linear-gradient(rgb(226, 101, 122),rgb(70, 174, 240),rgb(230, 34, 230));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+
+
+p{
+    font-size: 30px;
+    padding: 10px;
+}
+#increse{
+    color: rgb(79, 116, 148);
+    background: rgb(81, 227, 81);
+    font-size: 20px;
+    padding: 10px;
+    border:2px solid black;
+    margin-right: 10px;
+
+}
+#decrese{
+    color: rgb(100, 120, 138);
+    background: rgb(249, 252, 47);
+    font-size: 20px;
+    padding: 10px;
+     border:2px solid black;
+    margin-right: 10px;
+
+
+}
+#reset{
+    color: aliceblue;
+    background: rgb(246, 32, 64);
+    font-size: 20px;
+    padding: 10px;
+     border:2px solid black;
+    margin-right: 10px;
+
+
+}
+
